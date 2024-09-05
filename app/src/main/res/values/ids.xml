@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="saveBtn1" type="id" />
+    <item name="edit_secondtask" type="id" />
+    <item name="xml_text_date" type="id" />
+</resources>
